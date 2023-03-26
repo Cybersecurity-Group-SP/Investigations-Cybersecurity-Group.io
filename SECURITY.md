@@ -21,8 +21,8 @@ reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 Hello World!
 M.W.J.
-Cybersecurity-Group, S.P. [RESERVED
+Cybersecurity-Group, S.P. [RESERVED]
 Help@Cybersecurity-Group.io
-+1 214554-7752
++1 214=554-7752
 Old East Dallas
 DONE
